@@ -1,0 +1,11 @@
+Cust-Number = "101"
+Cust-Name="Joe"
+Cust-Town="London"
+Cust-hobby="tennis"
+Cust-purchase="200"
+
+Cust-Number = "102"
+Cust-Name="Mary"
+Cust-Town="Newyork"
+Cust-hobby="reading"
+Cust-purchase="125"
